@@ -26,6 +26,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ## Github Stats
-![GitHub Stats][![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciolpedroso)](https://github.com/marciolpedroso/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=marciolpedroso&theme=dark)](https://git.io/streak-stats)
 
 

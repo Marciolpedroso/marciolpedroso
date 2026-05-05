@@ -1,16 +1,16 @@
 ### 👋 Hello! I'm Márcio Pedroso
 
 🎓 Software Engineering Student  
-💻 Starting my journey with **Java** and backend development  
+💻 Starting my journey with **Python** and backend development  
 🌍 International experience | Multilingual (PT, EN, DE, ES, FR)
 
-I am building a solid foundation in programming with Java, learning logic, OOP and good development practices.  
+I am building a solid foundation in programming with Python, learning logic, OOP and good development practices.  
 My goal is to grow into backend development using Spring and build real projects to form a professional portfolio.
 
 ---
 
 ### 🔥 Currently Learning
-- Java fundamentals (syntax, variables, loops, methods)
+- Python fundamentals (syntax, variables, loops, methods)
 - Object-Oriented Programming
 - Git/GitHub & version control
 - SQL and basic database modeling
@@ -18,9 +18,8 @@ My goal is to grow into backend development using Spring and build real projects
 ---
 
 ### 📌 Next Steps (Roadmap)
-- Small projects using plain Java (console apps)
+- Small projects using plain Python (console apps)
 - JDBC + database integration
-- Spring Boot (REST API)
 - Portfolio projects focused on backend
 
 > *(I will document my progress in this GitHub profile.)*
@@ -28,7 +27,7 @@ My goal is to grow into backend development using Spring and build real projects
 ---
 
 ## Skills  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)

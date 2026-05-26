@@ -48,7 +48,6 @@ Built under **Bright Code**, my personal software company.
 - Django REST Framework & API design patterns
 - AWS infrastructure (EC2, S3, RDS)
 - System design fundamentals
-- Java (Spring Boot) for enterprise backend
 
 ---
 

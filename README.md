@@ -1,45 +1,70 @@
-### 👋 Hello! I'm Márcio Pedroso
+<div align="center">
 
-🎓 Software Engineering Student  
-💻 Starting my journey with **Python** and backend development  
-🌍 International experience | Multilingual (PT, EN, DE, ES, FR)
+# Márcio Pedroso
 
-I am building a solid foundation in programming with Python, learning logic, OOP and good development practices.  
-My goal is to grow into backend development using Spring and build real projects to form a professional portfolio.
+**Backend Developer · Python & Django · AI/SaaS Builder**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciolpedroso/)
+[![GitHub followers](https://img.shields.io/github/followers/Marciolpedroso?style=flat&label=Follow&color=0A0A0A)](https://github.com/Marciolpedroso)
 
-### 🔥 Currently Learning
-- Python fundamentals (syntax, variables, loops, methods)
-- Object-Oriented Programming
-- Git/GitHub & version control
-- SQL and basic database modeling
+</div>
 
 ---
 
-### 📌 Next Steps (Roadmap)
-- Small projects using plain Python (console apps)
-- JDBC + database integration
-- Portfolio projects focused on backend
+### About me
 
-> *(I will document my progress in this GitHub profile.)*
+I'm a backend developer focused on building real-world SaaS products using Python, Django, and AI integrations. Currently based in Dresden, Germany, targeting the London tech market.
 
----
-
-## Skills  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
+I study Software Engineering at UNINTER and build hands-on projects to develop a portfolio aligned with professional backend roles. Multilingual (PT · EN · DE · ES · FR).
 
 ---
 
-## GitHub Stats
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Marciolpedroso&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+### Tech Stack
+
+**Backend**
+`Python` `Django` `Django REST Framework` `PostgreSQL` `SQL`
+
+**AI & Data**
+`RAG pipelines` `LLM integrations` `Vector databases`
+
+**DevOps & Cloud**
+`Docker` `AWS` `GitHub Actions` `CI/CD`
+
+**Tools**
+`Git` `Linux` `Postman` `Figma`
 
 ---
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciolpedroso/)
+### Currently building
+
+🔧 **Nexstay** — Hospitality SaaS platform for the London market.
+Stack: Django · PostgreSQL · AWS · Docker · RAG · AI integrations.
+Built under **Bright Code**, my personal software company.
+
+---
+
+### Currently learning
+
+- Django REST Framework & API design patterns
+- AWS infrastructure (EC2, S3, RDS)
+- System design fundamentals
+- Java (Spring Boot) for enterprise backend
+
+---
+
+### Goals
+
+I'm building a focused portfolio of backend and AI-powered projects to enter the London job market as a professional developer. Every project I commit here is a step toward that goal.
+
+---
+
+### Connect
+
+📧 Open to opportunities, collaborations, and feedback.
+🔗 [linkedin.com/in/marciolpedroso](https://www.linkedin.com/in/marciolpedroso/)
+
+---
+
+<div align="center">
+<sub>Building in public · Dresden → London</sub>
+</div>

@@ -48,5 +48,5 @@ I'm building a focused portfolio of backend and AI-powered projects to enter the
 ---
 
 <div align="center">
-<sub>Building in public · Dresden</sub>
+<sub> Building in public · Dresden </sub>
 </div>

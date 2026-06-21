@@ -13,7 +13,7 @@
 
 ### About me
 
-I'm a backend developer focused on building real-world SaaS products using Python, Django, and AI integrations. Currently based in Dresden, Germany, targeting the London tech market.
+I'm a backend developer focused on building real-world SaaS products using Python, Django, and AI integrations. Currently based in Dresden, Germany.
 
 I study Software Engineering at UNINTER and build hands-on projects to develop a portfolio aligned with professional backend roles. Multilingual (PT · EN · DE · ES · FR).
 
@@ -23,23 +23,6 @@ I study Software Engineering at UNINTER and build hands-on projects to develop a
 
 **Backend**
 `Python` `Django` `Django REST Framework` `PostgreSQL` `SQL`
-
-**AI & Data**
-`RAG pipelines` `LLM integrations` `Vector databases`
-
-**DevOps & Cloud**
-`Docker` `AWS` `GitHub Actions` `CI/CD`
-
-**Tools**
-`Git` `Linux` `Postman` `Figma`
-
----
-
-### Currently building
-
-🔧 **Nexstay** — Hospitality SaaS platform for the London market.
-Stack: Django · PostgreSQL · AWS · Docker · RAG · AI integrations.
-Built under **Bright Code**, my personal software company.
 
 ---
 
@@ -53,7 +36,7 @@ Built under **Bright Code**, my personal software company.
 
 ### Goals
 
-I'm building a focused portfolio of backend and AI-powered projects to enter the London job market as a professional developer. Every project I commit here is a step toward that goal.
+I'm building a focused portfolio of backend and AI-powered projects to enter the job market as a professional developer. Every project I commit here is a step toward that goal.
 
 ---
 
@@ -65,5 +48,5 @@ I'm building a focused portfolio of backend and AI-powered projects to enter the
 ---
 
 <div align="center">
-<sub>Building in public · Dresden → London</sub>
+<sub>Building in public · Dresden/sub>
 </div>

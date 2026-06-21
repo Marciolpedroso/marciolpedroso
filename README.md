@@ -1,6 +1,6 @@
 <div align="center">
 
-# Márcio Pedroso
+# Marcio Luiz Pedroso
 
 **Backend Developer · Python & Django · AI/SaaS Builder**
 
